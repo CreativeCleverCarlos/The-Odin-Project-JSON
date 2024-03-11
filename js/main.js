@@ -88,4 +88,14 @@ async function populate() {
   
   populate();
 
+  //two really important methods that will be used regularly are JSON.parse() and JSON.stringify()
+
+
+  //takes code from the server, where the code is JSON and converts it into javascript. That being JSON.parse()
+
+
+  //the other converts the code that I will have writtne, and converts it into JSON. that being JSON.stringify()
+
+  
+  //
   
